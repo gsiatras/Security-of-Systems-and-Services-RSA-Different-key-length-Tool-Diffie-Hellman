@@ -1,7 +1,11 @@
-***Diffie-Hellman Key Exchange Tool and RSA Different key length Tool***	
-Developed by Georgios Michail Siatras and Andreas Karogiannis			
-TUC: Security of Systems and Services
-Proffessor: Sotirios Ioannidis
+# Diffie-Hellman Key Exchange Tool and RSA Different key length Tool      
+
+Developed by Georgios Michail Siatras and Andreas Karogiannis			    
+
+TUC: Security of Systems and Services      
+
+Proffessor: Sotirios Ioannidis      
+
 
 **Diffie-Hellman Key Exchange Tool**	
 The tool was created following the given instructions.
